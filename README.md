@@ -18,6 +18,8 @@
 
 Кастомные стили дописываем в `files/assets/custom.css`
 
+Можно переопределять файлы шаблонов добавляя только их в репозиторий.
+
 ## Смена темы через Remote Theme: 
 
 В _config.yml секция `remote_theme: vszhub/not-pure-poole` отвечает за имя темы.
