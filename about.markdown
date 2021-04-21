@@ -12,3 +12,9 @@ permalink: /about/
 * [Вакансии](https://github.com/phpvrn/jobs)
 
 Как разместить вакансию или оставить заявку на доклад - в правилах.
+
+---
+
+Отдельные спасибы компаниям:
+* [SkyEng](https://skyeng.ru/)
+* [JetBrains](https://www.jetbrains.com/)
