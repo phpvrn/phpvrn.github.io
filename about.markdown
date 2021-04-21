@@ -16,5 +16,7 @@ permalink: /about/
 ---
 
 Отдельные спасибы компаниям:
-* [SkyEng](https://skyeng.ru/)
-* [JetBrains](https://www.jetbrains.com/)
+
+[<img src="/images/skyeng-logo.svg">](https://skyeng.ru/)
+
+[<img src="/images/jetbrains.png" width="170px">](https://www.jetbrains.com/)
