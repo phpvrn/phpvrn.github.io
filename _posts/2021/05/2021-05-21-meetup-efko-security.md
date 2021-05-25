@@ -19,4 +19,4 @@ title: Митап «Как обеспечить безопасность web-п�
 
 ## Видео: 
 
-* https://www.youtube.com/watch?v=5WfQP4mshus
+* [https://www.youtube.com/watch?v=5WfQP4mshus](https://www.youtube.com/watch?v=5WfQP4mshus)
