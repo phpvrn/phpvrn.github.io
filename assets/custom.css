@@ -1,4 +1,14 @@
 .masthead {
     padding: 20px 10px 10px;
     background-color: rgba(8, 158, 221, 0.3);
+    text-shadow: -2px 1px 2px rgb(0 0 0 / 60%);
+}
+
+.masthead-title a:hover,
+.masthead-title a:focus,
+.navigation-item a:hover,
+.navigation-item a:focus
+{
+    color: #fff;
+    text-shadow: -2px 1px 2px rgb(0 0 0);
 }

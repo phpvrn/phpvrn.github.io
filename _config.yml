@@ -20,7 +20,7 @@
 
 title: PHP-сообщество Воронежа
 description: >- # this means to ignore newlines until "baseurl:"
-  Сообщество php (и около того) разработчиков из Воронежа
+  Сообщество PHP (и около того) разработчиков из Воронежа
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  phpvrn
