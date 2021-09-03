@@ -22,3 +22,8 @@ title: Митап «Боты&colon; как написать бота для Skyp
 **Владимир Романичев** "Botman — пишем чатбот на php"
 
 
+## Артефакты: 
+
+[Видео](https://www.youtube.com/watch?v=t9Uvfsj9IAU)
+
+[Слайды. Botman — пишем чатбот на php](/files/2021/08/botman.pptx)
