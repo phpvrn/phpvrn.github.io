@@ -7,7 +7,7 @@ title: Онлайн-митап «Организация и экономия св
 
 **Когда:** 03.12.21 (пятница) в 18:00
 
-**Видео:** https://youtu.be/S8ZCWUoVkvQ
+**Видео:** [https://youtu.be/S8ZCWUoVkvQ](https://youtu.be/S8ZCWUoVkvQ)
 
 ---
 
