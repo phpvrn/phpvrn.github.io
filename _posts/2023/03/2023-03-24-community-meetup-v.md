@@ -17,16 +17,19 @@ title: V встреча PHP-сообщества (24.03.2023)
 
 Из чего состоит конфигурация для приложений в Yii3? Как происходит сборка? Какие инструменты используются?
 
+- [Видео](https://www.youtube.com/watch?v=uSfkZksH940)
 - [Презентация](/files/2023/03/yii3-app-configuration.pdf)
 
 **Введение в distributed tracing**, _Дмитрий Панычев (CIO OBI)_
 
 Обзорный доклад о методике "distributed tracing" для диагностики распределённых систем.
 
+- [Видео](https://www.youtube.com/watch?v=OW-KPO7xiTs)
 - [Презентация](/files/2023/03/distributed-tracing.pdf)
 
 **Офисный стоицизм**, _Александр Стрельцов (разработчик)_
 
 Чем античная философия может помочь айтишникам и не только.
 
+- [Видео](https://www.youtube.com/watch?v=bhD8MjKTpwI)
 - [Презентация](/files/2023/03/office-stoicism.pdf)
