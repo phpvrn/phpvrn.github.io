@@ -8,8 +8,8 @@ endif
 serve:
 	docker run --rm \
 	-p$(server_port):4000 \
-	--volume="$(CURDIR):/site" \
-	-it bretfisher/jekyll-serve \
+	--volume="$(CURDIR):/srv/jekyll" \
+	-it jekyll/jekyll:4.0 \
 	jekyll serve
 
 .PHONY: serve
